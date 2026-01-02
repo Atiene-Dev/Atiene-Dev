@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🛡️ Atiene | SOC & Automation Engineer
 
-<!--
-**Atiene-Dev/Atiene-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 2026 Roadmap
+I am documenting my transition to **Lead Engineer** status. My current work focuses on network security, Python automation, and identifying local vulnerabilities.
 
-Here are some ideas to get you started:
+### 🛠️ Core Tech
+- **Security:** Network Reconnaissance (ARP), Port Auditing (SMB/RPC)
+- **Code:** Python (Socket Programming)
+- **Workflow:** GitHub Version Control & Documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Active Projects
+- **[2026-ENGINEERING-ROADMAP](https://github.com/Atiene-Dev/2026-ENGINEERING-ROADMAP):** Where I keep my custom security tools like `shield.py`.
+
+---
+*"The packet doesn't have an age—it only has a destination."*
